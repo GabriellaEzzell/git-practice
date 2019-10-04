@@ -1,1 +1,5 @@
-print "Coding is fun!!!!!!"
+puts "Coding is fun!!!!!!"
+puts ">"
+puts "I am soooooo tired......"
+puts ">"
+puts ";)"

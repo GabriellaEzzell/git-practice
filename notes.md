@@ -2,7 +2,7 @@ Very first time you use a new computer
 --------------------------------------
 
     git config --global user.name "Gabriella Ezzell"
-    git config --global user.name "gezzell05@gmail"
+    git config --global user.email "gezzell05@gmail"
 
 Setting up a new project (repository, folder)
 ---------------------------------------------
